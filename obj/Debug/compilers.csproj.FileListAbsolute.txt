@@ -1,0 +1,31 @@
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\bin\Debug\compilers.exe.config
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\bin\Debug\compilers.exe
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\bin\Debug\compilers.pdb
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.csprojResolveAssemblyReference.cache
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.Form1.resources
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.Properties.Resources.resources
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.csproj.GenerateResource.Cache
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.exe
+c:\users\ehab idk\documents\visual studio 2012\Projects\compilers\compilers\obj\Debug\compilers.pdb
+C:\Users\amir\Desktop\compilers\compilers\bin\Debug\compilers.exe.config
+C:\Users\amir\Desktop\compilers\compilers\bin\Debug\compilers.exe
+C:\Users\amir\Desktop\compilers\compilers\bin\Debug\compilers.pdb
+C:\Users\amir\Desktop\compilers\compilers\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\amir\Desktop\compilers\compilers\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.Form1.resources
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.Properties.Resources.resources
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.csproj.GenerateResource.cache
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.csproj.CopyComplete
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.exe
+C:\Users\amir\Desktop\compilers\compilers\obj\Debug\compilers.pdb
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\bin\Debug\compilers.exe.config
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.exe
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.pdb
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\bin\Debug\compilers.exe
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\bin\Debug\compilers.pdb
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.csprojResolveAssemblyReference.cache
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.Form1.resources
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.Properties.Resources.resources
+C:\Users\ehab idk\Desktop\projects 4th comp\compilers\final\compilers\compilers\obj\Debug\compilers.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Users\amir\Desktop\compilers\compilers\bin\Release\compilers.exe.config
+C:\Users\amir\Desktop\compilers\compilers\bin\Release\compilers.exe
+C:\Users\amir\Desktop\compilers\compilers\bin\Release\compilers.pdb
+C:\Users\amir\Desktop\compilers\compilers\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\amir\Desktop\compilers\compilers\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.Form1.resources
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.Properties.Resources.resources
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.csproj.GenerateResource.cache
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.csproj.CopyComplete
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.exe
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.pdb
+C:\Users\amir\Desktop\compilers\compilers\obj\Release\compilers.csprojAssemblyReference.cache
